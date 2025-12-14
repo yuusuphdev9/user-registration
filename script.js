@@ -56,7 +56,7 @@ function registerUser() {
 
 
 registerUser();
-alert(CEnd of registration!")
+alert("End of registration!")
 
 
 
